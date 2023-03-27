@@ -27,18 +27,6 @@ export const data = {
   ],
   developers: [
     {
-      avatar:
-        "https://wangaevans.vercel.app/_next/image?url=%2Fimages%2Fevans.jpg&w=128&q=75",
-      alt: "Wanga.png",
-      name: "Wanga Evans",
-      role: "",
-      bio: " ",
-      github: "https://github.com/wangaevans",
-      twitter: "https://twitter.com/wangaonly",
-      website: "https://wangaevans.vercel.app",
-    },
-
-    {
       avatar: "https://musaubrian.netlify.app/assets/avataaars.a85d8514.png",
       alt: "Ernest.png",
       name: "Musau Ernest",
